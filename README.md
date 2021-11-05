@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karnankita04
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and solving logical questions.
 - 🌱 I’m currently c++ programming language
 
 <!---
