@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-banner-data-science-modern-linear-concept-web-vector-line-web-banner-data-science-108705731.jpg)]
 <h1 align="center">Hi 👋, I'm Ankita karn</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
