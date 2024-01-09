@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="11000" height="500" src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif">
+<img align="center" alt="coding" width="11000" height="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Ankita karn</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
